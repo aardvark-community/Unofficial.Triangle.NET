@@ -32,6 +32,7 @@ File.WriteAllLines("repo/src/Triangle/paket.template", [
     "authors aardvark platform team"
     "owners aardvark platform team"
     "licenseExpression MIT"
+    "licenseUrl https://licenses.nuget.org/MIT"
     "description \"Triangle.NET is a 2D quality mesh generator and Delaunay triangulator.\""
 ])
 
